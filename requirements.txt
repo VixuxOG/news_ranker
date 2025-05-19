@@ -3,6 +3,5 @@ numpy
 scikit-learn
 nltk
 lightgbm
-joblib
 flask
-tqdm
+joblib
